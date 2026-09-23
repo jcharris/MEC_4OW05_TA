@@ -1,0 +1,10 @@
+name: MEC_4OW05_TA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
